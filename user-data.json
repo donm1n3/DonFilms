@@ -138,10 +138,14 @@
         {
           "id": "nightmare-before-christmas",
           "type": "movie"
+        },
+        {
+          "id": "scream",
+          "type": "movie"
         }
       ]
     }
   ],
   "status": {},
-  "updatedAt": 1792434342998
+  "updatedAt": 1792434378792
 }
