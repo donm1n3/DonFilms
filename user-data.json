@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "mr-robot",
+      "type": "series",
+      "title": "Мистер Робот",
+      "embed": "https://api.nextembed.ws/embed/movie/432",
+      "ts": 1792430534338
+    },
+    {
       "id": "breaking-bad",
       "type": "series",
       "title": "Во все тяжкие",
@@ -90,5 +97,5 @@
   },
   "collections": [],
   "status": {},
-  "updatedAt": 1792430271274
+  "updatedAt": 1792430534338
 }
