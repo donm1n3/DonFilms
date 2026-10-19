@@ -4,8 +4,8 @@
     "embed": "https://api.nextembed.ws/embed/movie/980"
   },
   "oppenheimer": {
-    "title": "Оппенгеймер",
-    "embed": "https://example.com/embed/oppenheimer"
+    "title": "Рэмбо: Первая кровь 2",
+    "embed": "https://api.nextembed.ws/embed/movie/981"
   },
   "interstellar": {
     "title": "Интерстеллар",
