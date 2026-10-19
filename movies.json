@@ -1,14 +1,29 @@
 {
-  "rambo": {
-    "title": "Рэмбо: Первая кровь",
-    "embed": "https://api.nextembed.ws/embed/movie/980"
+  "movies": {
+    "rambo": {
+      "title": "Рэмбо: Первая кровь",
+      "embed": "https://api.nextembed.ws/embed/movie/980"
+    },
+    "oppenheimer": {
+      "title": "Рэмбо: Первая кровь 2",
+      "embed": "https://api.nextembed.ws/embed/movie/981"
+    },
+    "interstellar": {
+      "title": "Интерстеллар",
+      "embed": "https://example.com/embed/interstellar"
+    }
   },
-  "oppenheimer": {
-    "title": "Рэмбо: Первая кровь 2",
-    "embed": "https://api.nextembed.ws/embed/movie/981"
-  },
-  "interstellar": {
-    "title": "Интерстеллар",
-    "embed": "https://api.nextembed.ws/embed/movie/180"
+  "series": {
+    "breaking-bad": {
+      "title": "Во все тяжкие",
+      "embed": "https://example.com/embed/breaking-bad",
+      "seasons": {
+        "1": 7,
+        "2": 13,
+        "3": 13,
+        "4": 13,
+        "5": 16
+      }
+    }
   }
 }
