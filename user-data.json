@@ -330,10 +330,21 @@
           "type": "movie"
         }
       ]
+    },
+    {
+      "id": "col_planned",
+      "name": "Планирую посмотреть",
+      "items": [
+        {
+          "id": "spiderman-new-day",
+          "type": "movie"
+        }
+      ]
     }
   ],
   "status": {
-    "the-walking-dead": "abandoned"
+    "the-walking-dead": "abandoned",
+    "spiderman-new-day": "planned"
   },
-  "updatedAt": 1792434480376
+  "updatedAt": 1792434481783
 }
