@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "scream",
+      "type": "movie",
+      "title": "Крик",
+      "embed": "https://api.nextembed.ws/embed/movie/4352",
+      "ts": 1792434385410
+    },
+    {
       "id": "mr-robot",
       "type": "series",
       "title": "Мистер Робот",
@@ -147,5 +154,5 @@
     }
   ],
   "status": {},
-  "updatedAt": 1792434378792
+  "updatedAt": 1792434385410
 }
