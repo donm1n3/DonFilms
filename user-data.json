@@ -139,20 +139,20 @@
           "type": "movie"
         },
         {
+          "id": "scream",
+          "type": "movie"
+        },
+        {
           "id": "halloween-2007",
           "type": "movie"
         },
         {
           "id": "nightmare-before-christmas",
           "type": "movie"
-        },
-        {
-          "id": "scream",
-          "type": "movie"
         }
       ]
     }
   ],
   "status": {},
-  "updatedAt": 1792434385410
+  "updatedAt": 1792434402753
 }
