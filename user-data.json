@@ -39,7 +39,8 @@
   ],
   "ratings": {
     "breaking-bad": 5,
-    "better-call-saul": 5
+    "better-call-saul": 5,
+    "the-walking-dead": 4.5
   },
   "watched": {
     "breaking-bad": {
@@ -246,5 +247,5 @@
     }
   ],
   "status": {},
-  "updatedAt": 1792434455651
+  "updatedAt": 1792434457927
 }
