@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "the-walking-dead",
+      "type": "series",
+      "title": "Ходячие мертвецы",
+      "embed": "https://api.nextembed.ws/embed/movie/1285",
+      "ts": 1792434455651
+    },
+    {
       "id": "better-call-saul",
       "type": "series",
       "title": "Лучше звоните Солу",
@@ -239,5 +246,5 @@
     }
   ],
   "status": {},
-  "updatedAt": 1792434445823
+  "updatedAt": 1792434455651
 }
