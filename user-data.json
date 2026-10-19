@@ -345,13 +345,18 @@
         {
           "id": "spiderman-new-day",
           "type": "movie"
+        },
+        {
+          "id": "interstellar",
+          "type": "movie"
         }
       ]
     }
   ],
   "status": {
     "the-walking-dead": "abandoned",
-    "spiderman-new-day": "planned"
+    "spiderman-new-day": "planned",
+    "interstellar": "planned"
   },
-  "updatedAt": 1792434486748
+  "updatedAt": 1792434488578
 }
