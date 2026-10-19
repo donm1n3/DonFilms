@@ -69,7 +69,8 @@
     "breaking-bad": 5,
     "better-call-saul": 5,
     "the-walking-dead": 4.5,
-    "rambo": 4.5
+    "rambo": 4.5,
+    "oppenheimer": 4
   },
   "watched": {
     "breaking-bad": {
@@ -372,7 +373,8 @@
     "the-walking-dead": "abandoned",
     "spiderman-new-day": "planned",
     "interstellar": "planned",
-    "rambo": "watched"
+    "rambo": "watched",
+    "oppenheimer": "watched"
   },
-  "updatedAt": 1792434501088
+  "updatedAt": 1792434513276
 }
