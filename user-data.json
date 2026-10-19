@@ -9,7 +9,9 @@
       "ts": 1792430262836
     }
   ],
-  "ratings": {},
+  "ratings": {
+    "breaking-bad": 5
+  },
   "watched": {
     "breaking-bad": {
       "1": [
@@ -88,5 +90,5 @@
   },
   "collections": [],
   "status": {},
-  "updatedAt": 1792430268189
+  "updatedAt": 1792430271274
 }
