@@ -10,8 +10,15 @@
     }
   ],
   "ratings": {},
-  "watched": {},
+  "watched": {
+    "breaking-bad": {
+      "1": [
+        1,
+        2
+      ]
+    }
+  },
   "collections": [],
   "status": {},
-  "updatedAt": 1792430221140
+  "updatedAt": 1792430227783
 }
