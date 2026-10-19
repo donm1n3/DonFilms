@@ -134,10 +134,14 @@
         {
           "id": "halloween-2007",
           "type": "movie"
+        },
+        {
+          "id": "nightmare-before-christmas",
+          "type": "movie"
         }
       ]
     }
   ],
   "status": {},
-  "updatedAt": 1792434327435
+  "updatedAt": 1792434342998
 }
