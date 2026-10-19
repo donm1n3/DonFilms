@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "black-mirror",
+      "type": "series",
+      "title": "Черное зеркало",
+      "embed": "https://api.nextembed.ws/embed/movie/349",
+      "ts": 1792434524743
+    },
+    {
       "id": "the-boys",
       "type": "series",
       "title": "Пацаны",
@@ -388,5 +395,5 @@
     "oppenheimer": "watched",
     "the-boys": "planned"
   },
-  "updatedAt": 1792434522431
+  "updatedAt": 1792434524743
 }
