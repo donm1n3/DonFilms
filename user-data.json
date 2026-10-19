@@ -6,7 +6,7 @@
       "type": "series",
       "title": "Во все тяжкие",
       "embed": "https://api.nextembed.ws/embed/movie/255",
-      "ts": 1792430232227
+      "ts": 1792430262836
     }
   ],
   "ratings": {},
@@ -20,5 +20,5 @@
   },
   "collections": [],
   "status": {},
-  "updatedAt": 1792430232227
+  "updatedAt": 1792430262836
 }
