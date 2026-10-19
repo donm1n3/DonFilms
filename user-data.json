@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "black-mirror",
+      "type": "series",
+      "title": "Черное зеркало",
+      "embed": "https://api.nextembed.ws/embed/movie/349",
+      "ts": 1792434679448
+    },
+    {
       "id": "mr-robot",
       "type": "series",
       "title": "Мистер Робот",
@@ -365,5 +372,5 @@
     "oppenheimer": "watched",
     "the-boys": "planned"
   },
-  "updatedAt": 1792434667482
+  "updatedAt": 1792434679448
 }
