@@ -372,6 +372,10 @@
         {
           "id": "interstellar",
           "type": "movie"
+        },
+        {
+          "id": "the-boys",
+          "type": "series"
         }
       ]
     }
@@ -381,7 +385,8 @@
     "spiderman-new-day": "planned",
     "interstellar": "planned",
     "rambo": "watched",
-    "oppenheimer": "watched"
+    "oppenheimer": "watched",
+    "the-boys": "planned"
   },
-  "updatedAt": 1792434518848
+  "updatedAt": 1792434522431
 }
