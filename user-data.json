@@ -1,84 +1,6 @@
 {
   "version": 1,
-  "history": [
-    {
-      "id": "black-mirror",
-      "type": "series",
-      "title": "Черное зеркало",
-      "embed": "https://api.nextembed.ws/embed/movie/349",
-      "ts": 1792434524743
-    },
-    {
-      "id": "the-boys",
-      "type": "series",
-      "title": "Пацаны",
-      "embed": "https://api.nextembed.ws/embed/movie/5780",
-      "ts": 1792434518848
-    },
-    {
-      "id": "oppenheimer",
-      "type": "movie",
-      "title": "Рэмбо: Первая кровь 2",
-      "embed": "https://api.nextembed.ws/embed/movie/981",
-      "ts": 1792434501088
-    },
-    {
-      "id": "rambo",
-      "type": "movie",
-      "title": "Рэмбо: Первая кровь",
-      "embed": "https://api.nextembed.ws/embed/movie/980",
-      "ts": 1792434492746
-    },
-    {
-      "id": "interstellar",
-      "type": "movie",
-      "title": "Интерстеллар",
-      "embed": "https://api.nextembed.ws/embed/movie/180",
-      "ts": 1792434486748
-    },
-    {
-      "id": "spiderman-new-day",
-      "type": "movie",
-      "title": "Человек-паук: Новый день",
-      "embed": "https://api.nextembed.ws/embed/movie/90039",
-      "ts": 1792434480376
-    },
-    {
-      "id": "the-walking-dead",
-      "type": "series",
-      "title": "Ходячие мертвецы",
-      "embed": "https://api.nextembed.ws/embed/movie/1285",
-      "ts": 1792434455651
-    },
-    {
-      "id": "better-call-saul",
-      "type": "series",
-      "title": "Лучше звоните Солу",
-      "embed": "https://api.nextembed.ws/embed/movie/446",
-      "ts": 1792434438832
-    },
-    {
-      "id": "scream",
-      "type": "movie",
-      "title": "Крик",
-      "embed": "https://api.nextembed.ws/embed/movie/4352",
-      "ts": 1792434405424
-    },
-    {
-      "id": "mr-robot",
-      "type": "series",
-      "title": "Мистер Робот",
-      "embed": "https://api.nextembed.ws/embed/movie/432",
-      "ts": 1792430534338
-    },
-    {
-      "id": "breaking-bad",
-      "type": "series",
-      "title": "Во все тяжкие",
-      "embed": "https://api.nextembed.ws/embed/movie/255",
-      "ts": 1792430262836
-    }
-  ],
+  "history": [],
   "ratings": {
     "breaking-bad": 5,
     "better-call-saul": 5,
@@ -435,5 +357,5 @@
     "oppenheimer": "watched",
     "the-boys": "planned"
   },
-  "updatedAt": 1792434611497
+  "updatedAt": 1792434642988
 }
