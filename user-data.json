@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "the-boys",
+      "type": "series",
+      "title": "Пацаны",
+      "embed": "https://api.nextembed.ws/embed/movie/5780",
+      "ts": 1792434518848
+    },
+    {
       "id": "oppenheimer",
       "type": "movie",
       "title": "Рэмбо: Первая кровь 2",
@@ -376,5 +383,5 @@
     "rambo": "watched",
     "oppenheimer": "watched"
   },
-  "updatedAt": 1792434513276
+  "updatedAt": 1792434518848
 }
