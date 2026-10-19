@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "spiderman-new-day",
+      "type": "movie",
+      "title": "Человек-паук: Новый день",
+      "embed": "https://api.nextembed.ws/embed/movie/90039",
+      "ts": 1792434480376
+    },
+    {
       "id": "the-walking-dead",
       "type": "series",
       "title": "Ходячие мертвецы",
@@ -328,5 +335,5 @@
   "status": {
     "the-walking-dead": "abandoned"
   },
-  "updatedAt": 1792434470121
+  "updatedAt": 1792434480376
 }
