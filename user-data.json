@@ -118,7 +118,13 @@
       ]
     }
   },
-  "collections": [],
+  "collections": [
+    {
+      "id": "col_mvfl3i4x",
+      "name": "Осень",
+      "items": []
+    }
+  ],
   "status": {},
-  "updatedAt": 1792430540309
+  "updatedAt": 1792434290578
 }
