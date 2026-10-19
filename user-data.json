@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "better-call-saul",
+      "type": "series",
+      "title": "Лучше звоните Солу",
+      "embed": "https://api.nextembed.ws/embed/movie/446",
+      "ts": 1792434438832
+    },
+    {
       "id": "scream",
       "type": "movie",
       "title": "Крик",
@@ -154,5 +161,5 @@
     }
   ],
   "status": {},
-  "updatedAt": 1792434405424
+  "updatedAt": 1792434438832
 }
