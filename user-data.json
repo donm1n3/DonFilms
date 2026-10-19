@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "interstellar",
+      "type": "movie",
+      "title": "Интерстеллар",
+      "embed": "https://api.nextembed.ws/embed/movie/180",
+      "ts": 1792434486748
+    },
+    {
       "id": "spiderman-new-day",
       "type": "movie",
       "title": "Человек-паук: Новый день",
@@ -346,5 +353,5 @@
     "the-walking-dead": "abandoned",
     "spiderman-new-day": "planned"
   },
-  "updatedAt": 1792434481783
+  "updatedAt": 1792434486748
 }
