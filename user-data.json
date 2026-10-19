@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "oppenheimer",
+      "type": "movie",
+      "title": "Рэмбо: Первая кровь 2",
+      "embed": "https://api.nextembed.ws/embed/movie/981",
+      "ts": 1792434501088
+    },
+    {
       "id": "rambo",
       "type": "movie",
       "title": "Рэмбо: Первая кровь",
@@ -367,5 +374,5 @@
     "interstellar": "planned",
     "rambo": "watched"
   },
-  "updatedAt": 1792434494912
+  "updatedAt": 1792434501088
 }
