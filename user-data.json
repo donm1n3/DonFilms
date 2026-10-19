@@ -31,7 +31,8 @@
     }
   ],
   "ratings": {
-    "breaking-bad": 5
+    "breaking-bad": 5,
+    "better-call-saul": 5
   },
   "watched": {
     "breaking-bad": {
@@ -238,5 +239,5 @@
     }
   ],
   "status": {},
-  "updatedAt": 1792434444118
+  "updatedAt": 1792434445823
 }
