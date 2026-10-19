@@ -4,13 +4,13 @@
       "title": "Рэмбо: Первая кровь",
       "embed": "https://api.nextembed.ws/embed/movie/980"
     },
-    "oppenheimer": {
+    "rambo2": {
       "title": "Рэмбо: Первая кровь 2",
       "embed": "https://api.nextembed.ws/embed/movie/981"
     },
     "interstellar": {
       "title": "Интерстеллар",
-      "embed": "https://example.com/embed/interstellar"
+      "embed": "https://api.nextembed.ws/embed/movie/180"
     }
   },
   "series": {
