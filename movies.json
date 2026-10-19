@@ -1,0 +1,18 @@
+{
+
+  
+  "dune2": {
+    "title": "Рэмбо: Первая кровь",
+    "embed": "https://api.nextembed.ws/embed/movie/980"
+  },
+  "oppenheimer": {
+    "title": "Оппенгеймер",
+    "embed": "https://example.com/embed/oppenheimer"
+  },
+  "interstellar": {
+    "title": "Интерстеллар",
+    "embed": "https://example.com/embed/interstellar"
+  }
+
+  
+}
