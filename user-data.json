@@ -61,7 +61,8 @@
   "ratings": {
     "breaking-bad": 5,
     "better-call-saul": 5,
-    "the-walking-dead": 4.5
+    "the-walking-dead": 4.5,
+    "rambo": 4.5
   },
   "watched": {
     "breaking-bad": {
@@ -363,7 +364,8 @@
   "status": {
     "the-walking-dead": "abandoned",
     "spiderman-new-day": "planned",
-    "interstellar": "planned"
+    "interstellar": "planned",
+    "rambo": "watched"
   },
-  "updatedAt": 1792434492746
+  "updatedAt": 1792434494912
 }
