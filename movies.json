@@ -4,7 +4,7 @@
       "title": "Рэмбо: Первая кровь",
       "embed": "https://api.nextembed.ws/embed/movie/980"
     },
-    "rambo2": {
+    "oppenheimer": {
       "title": "Рэмбо: Первая кровь 2",
       "embed": "https://api.nextembed.ws/embed/movie/981"
     },
@@ -23,6 +23,65 @@
         "3": 13,
         "4": 13,
         "5": 16
+      }
+    },
+    "better-call-saul": {
+      "title": "Лучше звоните Солу",
+      "embed": "https://api.nextembed.ws/embed/movie/446",
+      "seasons": {
+        "1": 10,
+        "2": 10,
+        "3": 10,
+        "4": 10,
+        "5": 10,
+        "6": 13
+      }
+    },
+    "mr-robot": {
+      "title": "Мистер Робот",
+      "embed": "https://api.nextembed.ws/embed/movie/432",
+      "seasons": {
+        "1": 10,
+        "2": 12,
+        "3": 10,
+        "4": 13
+      }
+    },
+    "black-mirror": {
+      "title": "Черное зеркало",
+      "embed": "https://api.nextembed.ws/embed/movie/349",
+      "seasons": {
+        "1": 3,
+        "2": 3,
+        "3": 6,
+        "4": 6,
+        "5": 3,
+        "6": 5,
+        "7": 6
+      }
+    },
+    "the-boys": {
+      "title": "Пацаны",
+      "embed": "https://api.nextembed.ws/embed/movie/5780",
+      "seasons": {
+        "1": 8,
+        "2": 8,
+        "3": 8,
+        "4": 8
+      }
+    },
+    "dexter": {
+      "title": "Декстер",
+      "embed": "https://api.nextembed.ws/embed/movie/400",
+      "seasons": {
+        "1": 12,
+        "2": 12,
+        "3": 12,
+        "4": 12,
+        "5": 12,
+        "6": 12,
+        "7": 12,
+        "8": 12
       }
     }
   }
