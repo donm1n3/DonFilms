@@ -16,7 +16,7 @@
   "series": {
     "breaking-bad": {
       "title": "Во все тяжкие",
-      "embed": "https://example.com/embed/breaking-bad",
+      "embed": "https://api.nextembed.ws/embed/movie/255",
       "seasons": {
         "1": 7,
         "2": 13,
