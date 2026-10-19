@@ -325,6 +325,8 @@
       ]
     }
   ],
-  "status": {},
-  "updatedAt": 1792434467198
+  "status": {
+    "the-walking-dead": "abandoned"
+  },
+  "updatedAt": 1792434470121
 }
