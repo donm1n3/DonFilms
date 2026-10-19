@@ -9,6 +9,6 @@
   },
   "interstellar": {
     "title": "Интерстеллар",
-    "embed": "https://example.com/embed/interstellar"
+    "embed": "https://api.nextembed.ws/embed/movie/180"
   }
 }
