@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "rambo",
+      "type": "movie",
+      "title": "Рэмбо: Первая кровь",
+      "embed": "https://api.nextembed.ws/embed/movie/980",
+      "ts": 1792434492746
+    },
+    {
       "id": "interstellar",
       "type": "movie",
       "title": "Интерстеллар",
@@ -358,5 +365,5 @@
     "spiderman-new-day": "planned",
     "interstellar": "planned"
   },
-  "updatedAt": 1792434488578
+  "updatedAt": 1792434492746
 }
