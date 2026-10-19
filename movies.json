@@ -1,6 +1,4 @@
 {
-
-  
   "rambo": {
     "title": "Рэмбо: Первая кровь",
     "embed": "https://api.nextembed.ws/embed/movie/980"
@@ -13,6 +11,4 @@
     "title": "Интерстеллар",
     "embed": "https://example.com/embed/interstellar"
   }
-
-  
 }
