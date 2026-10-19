@@ -1,6 +1,14 @@
 {
   "version": 1,
-  "history": [],
+  "history": [
+    {
+      "id": "mr-robot",
+      "type": "series",
+      "title": "Мистер Робот",
+      "embed": "https://api.nextembed.ws/embed/movie/432",
+      "ts": 1792434667482
+    }
+  ],
   "ratings": {
     "breaking-bad": 5,
     "better-call-saul": 5,
@@ -357,5 +365,5 @@
     "oppenheimer": "watched",
     "the-boys": "planned"
   },
-  "updatedAt": 1792434642988
+  "updatedAt": 1792434667482
 }
