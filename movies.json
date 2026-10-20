@@ -4,9 +4,17 @@
       "title": "Рэмбо: Первая кровь",
       "embed": "https://api.nextembed.ws/embed/movie/980"
     },
-    "oppenheimer": {
+    "rambo2": {
       "title": "Рэмбо: Первая кровь 2",
       "embed": "https://api.nextembed.ws/embed/movie/981"
+    },
+    "rambo3": {
+      "title": "Рэмбо 3",
+      "embed": "https://api.nextembed.ws/embed/movie/982"
+    },
+    "rambo4": {
+      "title": "Рэмбо IV",
+      "embed": "https://api.nextembed.ws/embed/movie/983"
     },
     "interstellar": {
       "title": "Интерстеллар",
@@ -35,6 +43,38 @@
     "harry-potter-2": {
       "title": "Гарри Поттер и Тайная комната",
       "embed": "https://api.nextembed.ws/embed/movie/384"
+    },
+    "batman-begins": {
+      "title": "Бэтмен: Начало",
+      "embed": "https://api.nextembed.ws/embed/movie/1366"
+    },
+    "dark-knight": {
+      "title": "Темный рыцарь",
+      "embed": "https://api.nextembed.ws/embed/movie/3066"
+    },
+    "dark-knight-rises": {
+      "title": "Темный рыцарь: Возрождение легенды",
+      "embed": "https://api.nextembed.ws/embed/movie/469"
+    },
+    "terminator": {
+      "title": "Терминатор",
+      "embed": "https://api.nextembed.ws/embed/movie/505"
+    },
+    "terminator-2": {
+      "title": "Терминатор 2: Судный день",
+      "embed": "https://api.nextembed.ws/embed/movie/506"
+    },
+    "spiderman-2002": {
+      "title": "Человек-паук",
+      "embed": "https://api.nextembed.ws/embed/movie/1143"
+    },
+    "spiderman-2": {
+      "title": "Человек-паук 2",
+      "embed": "https://api.nextembed.ws/embed/movie/1144"
+    },
+    "spiderman-3": {
+      "title": "Человек-паук 3: Враг в отражении",
+      "embed": "https://api.nextembed.ws/embed/movie/1145"
     }
   },
   "series": {
