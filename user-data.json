@@ -35,7 +35,8 @@
     "better-call-saul": 5,
     "the-walking-dead": 4.5,
     "rambo": 4.5,
-    "oppenheimer": 4
+    "oppenheimer": 4,
+    "spiderman-2002": 4.5
   },
   "watched": {
     "breaking-bad": {
@@ -389,7 +390,8 @@
     "rambo": "watched",
     "oppenheimer": "watched",
     "the-boys": "planned",
-    "batman-begins": "planned"
+    "batman-begins": "planned",
+    "spiderman-2002": "watched"
   },
-  "updatedAt": 1792510186982
+  "updatedAt": 1792510216690
 }
