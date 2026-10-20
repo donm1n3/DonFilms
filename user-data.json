@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "batman-begins",
+      "type": "movie",
+      "title": "Бэтмен: Начало",
+      "embed": "https://api.nextembed.ws/embed/movie/1366",
+      "ts": 1792505062455
+    },
+    {
       "id": "the-walking-dead",
       "type": "series",
       "title": "Ходячие мертвецы",
@@ -386,5 +393,5 @@
     "oppenheimer": "watched",
     "the-boys": "planned"
   },
-  "updatedAt": 1792505038390
+  "updatedAt": 1792505062455
 }
