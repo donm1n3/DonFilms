@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "spiderman-new-day",
+      "type": "movie",
+      "title": "Человек-паук: Новый день",
+      "embed": "https://api.nextembed.ws/embed/movie/90039",
+      "ts": 1792505191687
+    },
+    {
       "id": "dark-knight",
       "type": "movie",
       "title": "Темный рыцарь",
@@ -405,5 +412,5 @@
     "the-boys": "planned",
     "batman-begins": "planned"
   },
-  "updatedAt": 1792505136297
+  "updatedAt": 1792505191687
 }
