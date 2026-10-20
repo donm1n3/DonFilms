@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "dark-knight-rises",
+      "type": "movie",
+      "title": "Темный рыцарь: Возрождение легенды",
+      "embed": "https://api.nextembed.ws/embed/movie/469",
+      "ts": 1792510330084
+    },
+    {
       "id": "dark-knight",
       "type": "movie",
       "title": "Темный рыцарь",
@@ -400,5 +407,5 @@
     "batman-begins": "planned",
     "spiderman-2002": "watched"
   },
-  "updatedAt": 1792510309557
+  "updatedAt": 1792510330084
 }
