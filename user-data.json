@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "spiderman-2002",
+      "type": "movie",
+      "title": "Человек-паук",
+      "embed": "https://api.nextembed.ws/embed/movie/1143",
+      "ts": 1792505071071
+    },
+    {
       "id": "batman-begins",
       "type": "movie",
       "title": "Бэтмен: Начало",
@@ -14,13 +21,6 @@
       "title": "Ходячие мертвецы",
       "embed": "https://api.nextembed.ws/embed/movie/1285",
       "ts": 1792505038390
-    },
-    {
-      "id": "spiderman-2002",
-      "type": "movie",
-      "title": "Человек-паук",
-      "embed": "https://api.nextembed.ws/embed/movie/1143",
-      "ts": 1792505026004
     },
     {
       "id": "black-mirror",
@@ -381,6 +381,10 @@
         {
           "id": "the-boys",
           "type": "series"
+        },
+        {
+          "id": "batman-begins",
+          "type": "movie"
         }
       ]
     }
@@ -391,7 +395,8 @@
     "interstellar": "planned",
     "rambo": "watched",
     "oppenheimer": "watched",
-    "the-boys": "planned"
+    "the-boys": "planned",
+    "batman-begins": "planned"
   },
-  "updatedAt": 1792505062455
+  "updatedAt": 1792505071071
 }
