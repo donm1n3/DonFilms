@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "dark-knight",
+      "type": "movie",
+      "title": "Темный рыцарь",
+      "embed": "https://api.nextembed.ws/embed/movie/3066",
+      "ts": 1792510309557
+    },
+    {
       "id": "spiderman-2002",
       "type": "movie",
       "title": "Человек-паук",
@@ -393,5 +400,5 @@
     "batman-begins": "planned",
     "spiderman-2002": "watched"
   },
-  "updatedAt": 1792510216690
+  "updatedAt": 1792510309557
 }
