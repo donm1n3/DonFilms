@@ -1,56 +1,6 @@
 {
   "version": 1,
-  "history": [
-    {
-      "id": "spiderman-new-day",
-      "type": "movie",
-      "title": "Человек-паук: Новый день",
-      "embed": "https://api.nextembed.ws/embed/movie/90039",
-      "ts": 1792505191687
-    },
-    {
-      "id": "dark-knight",
-      "type": "movie",
-      "title": "Темный рыцарь",
-      "embed": "https://api.nextembed.ws/embed/movie/3066",
-      "ts": 1792505136297
-    },
-    {
-      "id": "spiderman-2002",
-      "type": "movie",
-      "title": "Человек-паук",
-      "embed": "https://api.nextembed.ws/embed/movie/1143",
-      "ts": 1792505088235
-    },
-    {
-      "id": "batman-begins",
-      "type": "movie",
-      "title": "Бэтмен: Начало",
-      "embed": "https://api.nextembed.ws/embed/movie/1366",
-      "ts": 1792505062455
-    },
-    {
-      "id": "the-walking-dead",
-      "type": "series",
-      "title": "Ходячие мертвецы",
-      "embed": "https://api.nextembed.ws/embed/movie/1285",
-      "ts": 1792505038390
-    },
-    {
-      "id": "black-mirror",
-      "type": "series",
-      "title": "Черное зеркало",
-      "embed": "https://api.nextembed.ws/embed/movie/349",
-      "ts": 1792434679448
-    },
-    {
-      "id": "mr-robot",
-      "type": "series",
-      "title": "Мистер Робот",
-      "embed": "https://api.nextembed.ws/embed/movie/432",
-      "ts": 1792434667482
-    }
-  ],
+  "history": [],
   "ratings": {
     "breaking-bad": 5,
     "better-call-saul": 5,
@@ -412,5 +362,5 @@
     "the-boys": "planned",
     "batman-begins": "planned"
   },
-  "updatedAt": 1792505191687
+  "updatedAt": 1792505253304
 }
