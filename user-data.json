@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "the-walking-dead",
+      "type": "series",
+      "title": "Ходячие мертвецы",
+      "embed": "https://api.nextembed.ws/embed/movie/1285",
+      "ts": 1792505038390
+    },
+    {
       "id": "spiderman-2002",
       "type": "movie",
       "title": "Человек-паук",
@@ -379,5 +386,5 @@
     "oppenheimer": "watched",
     "the-boys": "planned"
   },
-  "updatedAt": 1792505026004
+  "updatedAt": 1792505038390
 }
