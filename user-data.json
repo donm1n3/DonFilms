@@ -357,11 +357,11 @@
           "type": "movie"
         },
         {
-          "id": "harry-potter-2",
+          "id": "scream",
           "type": "movie"
         },
         {
-          "id": "scream",
+          "id": "harry-potter-2",
           "type": "movie"
         },
         {
@@ -407,5 +407,5 @@
     "batman-begins": "planned",
     "spiderman-2002": "watched"
   },
-  "updatedAt": 1792514496540
+  "updatedAt": 1792781560677
 }
