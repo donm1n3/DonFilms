@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "winnie-the-pooh",
+      "type": "movie",
+      "title": "Приключения Винни Пуха",
+      "embed": "https://api.nextembed.ws/embed/movie/18299",
+      "ts": 1792865651374
+    },
+    {
       "id": "harry-potter-1",
       "type": "movie",
       "title": "Гарри Поттер и философский камень",
@@ -407,5 +414,5 @@
     "batman-begins": "planned",
     "spiderman-2002": "watched"
   },
-  "updatedAt": 1792823740743
+  "updatedAt": 1792865651374
 }
