@@ -75,6 +75,18 @@
     "spiderman-3": {
       "title": "Человек-паук 3: Враг в отражении",
       "embed": "https://api.nextembed.ws/embed/movie/1145"
+    },
+    "american-psycho": {
+      "title": "Американский психопат",
+      "embed": "https://api.nextembed.ws/embed/movie/4372"
+    },
+    "winnie-the-pooh": {
+      "title": "Приключения Винни Пуха",
+      "embed": "https://api.nextembed.ws/embed/movie/18299"
+    },
+    "17-again": {
+      "title": "Папе снова 17",
+      "embed": "https://api.nextembed.ws/embed/movie/1277"
     }
   },
   "series": {
