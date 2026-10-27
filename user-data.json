@@ -2,6 +2,14 @@
   "version": 1,
   "history": [
     {
+      "id": "the-walking-dead",
+      "type": "series",
+      "title": "Ходячие мертвецы",
+      "year": "2010",
+      "embed": "https://api.nextembed.ws/embed/movie/1285",
+      "ts": 1793090853229
+    },
+    {
       "id": "spiderman-2002",
       "type": "movie",
       "title": "Человек-паук",
@@ -24,14 +32,6 @@
       "year": "2001",
       "embed": "https://api.nextembed.ws/embed/movie/383",
       "ts": 1793089873769
-    },
-    {
-      "id": "the-walking-dead",
-      "type": "series",
-      "title": "Ходячие мертвецы",
-      "year": "2010",
-      "embed": "https://api.nextembed.ws/embed/movie/1285",
-      "ts": 1793089854529
     },
     {
       "id": "winnie-the-pooh",
@@ -435,5 +435,5 @@
     "spiderman-2002": "watched",
     "harry-potter-1": "watched"
   },
-  "updatedAt": 1793090738513
+  "updatedAt": 1793090853229
 }
