@@ -2,6 +2,14 @@
   "version": 1,
   "history": [
     {
+      "id": "harry-potter-1",
+      "type": "movie",
+      "title": "Гарри Поттер и философский камень",
+      "year": "2001",
+      "embed": "https://api.nextembed.ws/embed/movie/383",
+      "ts": 1793091325462
+    },
+    {
       "id": "breaking-bad",
       "type": "series",
       "title": "Во все тяжкие",
@@ -24,14 +32,6 @@
       "year": "",
       "embed": "https://api.nextembed.ws/embed/movie/1143",
       "ts": 1793090738513
-    },
-    {
-      "id": "harry-potter-1",
-      "type": "movie",
-      "title": "Гарри Поттер и философский камень",
-      "year": "2001",
-      "embed": "https://api.nextembed.ws/embed/movie/383",
-      "ts": 1793089873769
     },
     {
       "id": "winnie-the-pooh",
@@ -435,5 +435,5 @@
     "spiderman-2002": "watched",
     "harry-potter-1": "watched"
   },
-  "updatedAt": 1793091093785
+  "updatedAt": 1793091325462
 }
