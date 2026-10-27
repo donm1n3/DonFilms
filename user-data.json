@@ -78,7 +78,8 @@
     "rambo": 4.5,
     "oppenheimer": 4,
     "spiderman-2002": 4.5,
-    "harry-potter-1": 5
+    "harry-potter-1": 5,
+    "the-boys": 4.5
   },
   "reviews": {
     "harry-potter-1": "Классный фильм"
@@ -1199,5 +1200,5 @@
     "breaking-bad": 1,
     "the-boys": 5
   },
-  "updatedAt": 1793093256755
+  "updatedAt": 1793093260870
 }
