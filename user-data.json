@@ -1,100 +1,6 @@
 {
   "version": 2,
-  "history": [
-    {
-      "id": "breaking-bad",
-      "type": "series",
-      "title": "Во все тяжкие",
-      "year": "2008",
-      "embed": "https://api.nextembed.ws/embed/movie/255",
-      "ts": 1793103988482
-    },
-    {
-      "id": "harry-potter-1",
-      "type": "movie",
-      "title": "Гарри Поттер и философский камень",
-      "year": "2001",
-      "embed": "https://api.nextembed.ws/embed/movie/383",
-      "ts": 1793102149165
-    },
-    {
-      "id": "harry-potter-2",
-      "type": "movie",
-      "title": "Гарри Поттер и Тайная комната",
-      "year": "2002",
-      "embed": "https://api.nextembed.ws/embed/movie/384",
-      "ts": 1793094343467
-    },
-    {
-      "id": "american-psycho",
-      "type": "movie",
-      "title": "Американский психопат",
-      "year": "2000",
-      "embed": "https://api.nextembed.ws/embed/movie/4372",
-      "ts": 1793094336989
-    },
-    {
-      "id": "the-boys",
-      "type": "series",
-      "title": "Пацаны",
-      "year": "2019",
-      "embed": "https://api.nextembed.ws/embed/movie/5780",
-      "ts": 1793093428236
-    },
-    {
-      "id": "dexter",
-      "type": "series",
-      "title": "Декстер",
-      "year": "2006",
-      "embed": "https://api.nextembed.ws/embed/movie/400",
-      "ts": 1793093381161
-    },
-    {
-      "id": "spiderman-2002",
-      "type": "movie",
-      "title": "Человек-паук",
-      "year": "2002",
-      "embed": "https://api.nextembed.ws/embed/movie/1143",
-      "ts": 1793092637778
-    },
-    {
-      "id": "the-walking-dead",
-      "type": "series",
-      "title": "Ходячие мертвецы",
-      "year": "2010",
-      "embed": "https://api.nextembed.ws/embed/movie/1285",
-      "ts": 1793090853229
-    },
-    {
-      "id": "winnie-the-pooh",
-      "type": "movie",
-      "title": "Приключения Винни Пуха",
-      "year": "1977",
-      "embed": "https://api.nextembed.ws/embed/movie/18299",
-      "ts": 1793089509554
-    },
-    {
-      "id": "scream",
-      "type": "movie",
-      "title": "Крик",
-      "embed": "https://api.nextembed.ws/embed/movie/4352",
-      "ts": 1793044510826
-    },
-    {
-      "id": "dark-knight-rises",
-      "type": "movie",
-      "title": "Темный рыцарь: Возрождение легенды",
-      "embed": "https://api.nextembed.ws/embed/movie/469",
-      "ts": 1792510330084
-    },
-    {
-      "id": "dark-knight",
-      "type": "movie",
-      "title": "Темный рыцарь",
-      "embed": "https://api.nextembed.ws/embed/movie/3066",
-      "ts": 1792510309557
-    }
-  ],
+  "history": [],
   "ratings": {
     "breaking-bad": 5,
     "better-call-saul": 5,
@@ -1239,5 +1145,5 @@
     "breaking-bad": 1,
     "the-boys": 1
   },
-  "updatedAt": 1793103988482
+  "updatedAt": 1793104147199
 }
