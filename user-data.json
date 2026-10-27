@@ -2,6 +2,13 @@
   "version": 1,
   "history": [
     {
+      "id": "breaking-bad",
+      "type": "series",
+      "title": "Во все тяжкие",
+      "embed": "https://api.nextembed.ws/embed/movie/255",
+      "ts": 1793088330319
+    },
+    {
       "id": "scream",
       "type": "movie",
       "title": "Крик",
@@ -42,13 +49,6 @@
       "title": "Человек-паук",
       "embed": "https://api.nextembed.ws/embed/movie/1143",
       "ts": 1792510186982
-    },
-    {
-      "id": "breaking-bad",
-      "type": "series",
-      "title": "Во все тяжкие",
-      "embed": "https://api.nextembed.ws/embed/movie/255",
-      "ts": 1792510165401
     },
     {
       "id": "the-walking-dead",
@@ -421,5 +421,5 @@
     "batman-begins": "planned",
     "spiderman-2002": "watched"
   },
-  "updatedAt": 1793044510826
+  "updatedAt": 1793088330319
 }
