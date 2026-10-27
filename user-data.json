@@ -2,20 +2,20 @@
   "version": 2,
   "history": [
     {
+      "id": "breaking-bad",
+      "type": "series",
+      "title": "Во все тяжкие",
+      "year": "2008",
+      "embed": "https://api.nextembed.ws/embed/movie/255",
+      "ts": 1793102585947
+    },
+    {
       "id": "harry-potter-1",
       "type": "movie",
       "title": "Гарри Поттер и философский камень",
       "year": "2001",
       "embed": "https://api.nextembed.ws/embed/movie/383",
       "ts": 1793102149165
-    },
-    {
-      "id": "breaking-bad",
-      "type": "series",
-      "title": "Во все тяжкие",
-      "year": "2008",
-      "embed": "https://api.nextembed.ws/embed/movie/255",
-      "ts": 1793101905213
     },
     {
       "id": "harry-potter-2",
@@ -1244,5 +1244,5 @@
     "breaking-bad": 1,
     "the-boys": 1
   },
-  "updatedAt": 1793102270991
+  "updatedAt": 1793102585947
 }
