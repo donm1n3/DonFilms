@@ -2,6 +2,14 @@
   "version": 1,
   "history": [
     {
+      "id": "spiderman-2002",
+      "type": "movie",
+      "title": "Человек-паук",
+      "year": "",
+      "embed": "https://api.nextembed.ws/embed/movie/1143",
+      "ts": 1793090738513
+    },
+    {
       "id": "breaking-bad",
       "type": "series",
       "title": "Во все тяжкие",
@@ -32,13 +40,6 @@
       "year": "1977",
       "embed": "https://api.nextembed.ws/embed/movie/18299",
       "ts": 1793089509554
-    },
-    {
-      "id": "spiderman-2002",
-      "type": "movie",
-      "title": "Человек-паук",
-      "embed": "https://api.nextembed.ws/embed/movie/1143",
-      "ts": 1793088336707
     },
     {
       "id": "scream",
@@ -434,5 +435,5 @@
     "spiderman-2002": "watched",
     "harry-potter-1": "watched"
   },
-  "updatedAt": 1793090719727
+  "updatedAt": 1793090738513
 }
