@@ -66,6 +66,8 @@
     "oppenheimer": 4,
     "spiderman-2002": 4.5
   },
+  "reviews": {},
+  "notes": {},
   "watched": {
     "breaking-bad": {
       "1": [
@@ -421,5 +423,5 @@
     "batman-begins": "planned",
     "spiderman-2002": "watched"
   },
-  "updatedAt": 1793088352029
+  "updatedAt": 1793089452848
 }
