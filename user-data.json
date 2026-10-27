@@ -67,7 +67,8 @@
     "the-walking-dead": 4.5,
     "rambo": 4.5,
     "oppenheimer": 4,
-    "spiderman-2002": 4.5
+    "spiderman-2002": 4.5,
+    "harry-potter-1": 5
   },
   "reviews": {},
   "notes": {
@@ -428,7 +429,8 @@
     "oppenheimer": "watched",
     "the-boys": "planned",
     "batman-begins": "planned",
-    "spiderman-2002": "watched"
+    "spiderman-2002": "watched",
+    "harry-potter-1": "watched"
   },
-  "updatedAt": 1793089873769
+  "updatedAt": 1793089876237
 }
