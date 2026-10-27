@@ -69,7 +69,11 @@
     "spiderman-2002": 4.5
   },
   "reviews": {},
-  "notes": {},
+  "notes": {
+    "harry-potter-1": {
+      "dict": "привет"
+    }
+  },
   "watched": {
     "breaking-bad": {
       "1": [
@@ -425,5 +429,5 @@
     "batman-begins": "planned",
     "spiderman-2002": "watched"
   },
-  "updatedAt": 1793089535851
+  "updatedAt": 1793089548222
 }
