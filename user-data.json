@@ -1131,10 +1131,6 @@
         {
           "id": "interstellar",
           "type": "movie"
-        },
-        {
-          "id": "the-boys",
-          "type": "series"
         }
       ]
     }
@@ -1158,10 +1154,6 @@
     },
     "oppenheimer": {
       "state": "watched",
-      "date": null
-    },
-    "the-boys": {
-      "state": "planned",
       "date": null
     },
     "batman-begins": {
@@ -1193,5 +1185,5 @@
     "breaking-bad": 1,
     "the-boys": 2
   },
-  "updatedAt": 1793093069863
+  "updatedAt": 1793093074569
 }
