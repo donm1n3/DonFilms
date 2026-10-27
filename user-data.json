@@ -1134,10 +1134,6 @@
         {
           "id": "interstellar",
           "type": "movie"
-        },
-        {
-          "id": "the-boys",
-          "type": "series"
         }
       ]
     }
@@ -1174,10 +1170,6 @@
     "harry-potter-1": {
       "state": "watched",
       "date": null
-    },
-    "the-boys": {
-      "state": "planned",
-      "date": "2026-10-27"
     }
   },
   "watchCount": {
@@ -1211,5 +1203,5 @@
     "breaking-bad": 1,
     "the-boys": 1
   },
-  "updatedAt": 1793093415024
+  "updatedAt": 1793093417130
 }
