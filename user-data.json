@@ -2,20 +2,20 @@
   "version": 2,
   "history": [
     {
+      "id": "breaking-bad",
+      "type": "series",
+      "title": "Во все тяжкие",
+      "year": "2008",
+      "embed": "https://api.nextembed.ws/embed/movie/255",
+      "ts": 1793092107215
+    },
+    {
       "id": "harry-potter-1",
       "type": "movie",
       "title": "Гарри Поттер и философский камень",
       "year": "2001",
       "embed": "https://api.nextembed.ws/embed/movie/383",
       "ts": 1793092102360
-    },
-    {
-      "id": "breaking-bad",
-      "type": "series",
-      "title": "Во все тяжкие",
-      "year": "2008",
-      "embed": "https://api.nextembed.ws/embed/movie/255",
-      "ts": 1793091093785
     },
     {
       "id": "the-walking-dead",
@@ -953,7 +953,7 @@
     "rambo": 1,
     "oppenheimer": 1,
     "spiderman-2002": 1,
-    "harry-potter-1": 2,
+    "harry-potter-1": 1,
     "breaking-bad": 1,
     "mr-robot": 1,
     "better-call-saul": 1,
@@ -961,5 +961,5 @@
     "black-mirror": 1
   },
   "activeCycle": {},
-  "updatedAt": 1793092102360
+  "updatedAt": 1793092107215
 }
