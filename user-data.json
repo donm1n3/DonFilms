@@ -2,6 +2,14 @@
   "version": 2,
   "history": [
     {
+      "id": "american-psycho",
+      "type": "movie",
+      "title": "Американский психопат",
+      "year": "2000",
+      "embed": "https://api.nextembed.ws/embed/movie/4372",
+      "ts": 1793094336989
+    },
+    {
       "id": "breaking-bad",
       "type": "series",
       "title": "Во все тяжкие",
@@ -16,14 +24,6 @@
       "year": "2001",
       "embed": "https://api.nextembed.ws/embed/movie/383",
       "ts": 1793093860470
-    },
-    {
-      "id": "american-psycho",
-      "type": "movie",
-      "title": "Американский психопат",
-      "year": "2000",
-      "embed": "https://api.nextembed.ws/embed/movie/4372",
-      "ts": 1793093647067
     },
     {
       "id": "the-boys",
@@ -1116,6 +1116,10 @@
         {
           "id": "interstellar",
           "type": "movie"
+        },
+        {
+          "id": "american-psycho",
+          "type": "movie"
         }
       ]
     },
@@ -1188,6 +1192,10 @@
     "harry-potter-1": {
       "state": "watched",
       "date": null
+    },
+    "american-psycho": {
+      "state": "planned",
+      "date": "2026-10-27"
     }
   },
   "watchCount": {
@@ -1221,5 +1229,5 @@
     "breaking-bad": 1,
     "the-boys": 1
   },
-  "updatedAt": 1793094331455
+  "updatedAt": 1793094337695
 }
