@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "history": [
     {
       "id": "harry-potter-1",
@@ -7,7 +7,7 @@
       "title": "Гарри Поттер и философский камень",
       "year": "2001",
       "embed": "https://api.nextembed.ws/embed/movie/383",
-      "ts": 1793091433618
+      "ts": 1793092085613
     },
     {
       "id": "breaking-bad",
@@ -83,297 +83,782 @@
   },
   "watched": {
     "breaking-bad": {
-      "1": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ],
-      "2": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13
-      ],
-      "3": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13
-      ],
-      "4": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13
-      ],
-      "5": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ]
+      "cycle1": {
+        "1": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          }
+        },
+        "2": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          }
+        },
+        "3": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          }
+        },
+        "4": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          }
+        },
+        "5": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          },
+          "14": {
+            "date": null
+          },
+          "15": {
+            "date": null
+          },
+          "16": {
+            "date": null
+          }
+        }
+      },
+      "cycle2": {}
     },
     "mr-robot": {
-      "1": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "2": [
-        7,
-        6,
-        5,
-        4,
-        3,
-        2,
-        1
-      ]
+      "cycle1": {
+        "1": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "2": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          }
+        }
+      },
+      "cycle2": {}
     },
     "better-call-saul": {
-      "1": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "2": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "3": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "4": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "5": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "6": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13
-      ]
+      "cycle1": {
+        "1": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "2": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "3": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "4": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "5": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "6": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          }
+        }
+      },
+      "cycle2": {}
     },
     "the-walking-dead": {
-      "1": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
-      "2": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13
-      ],
-      "3": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ],
-      "4": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ],
-      "5": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16
-      ]
+      "cycle1": {
+        "1": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          }
+        },
+        "2": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          }
+        },
+        "3": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          },
+          "14": {
+            "date": null
+          },
+          "15": {
+            "date": null
+          },
+          "16": {
+            "date": null
+          }
+        },
+        "4": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          },
+          "14": {
+            "date": null
+          },
+          "15": {
+            "date": null
+          },
+          "16": {
+            "date": null
+          }
+        },
+        "5": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          },
+          "14": {
+            "date": null
+          },
+          "15": {
+            "date": null
+          },
+          "16": {
+            "date": null
+          }
+        }
+      },
+      "cycle2": {}
     },
     "black-mirror": {
-      "1": [
-        1,
-        2,
-        3
-      ],
-      "2": [
-        1,
-        2,
-        3
-      ],
-      "3": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
-      "4": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
-      "5": [
-        1,
-        2,
-        3
-      ],
-      "6": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ]
+      "cycle1": {
+        "1": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          }
+        },
+        "2": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          }
+        },
+        "3": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          }
+        },
+        "4": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          }
+        },
+        "5": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          }
+        },
+        "6": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          }
+        }
+      },
+      "cycle2": {}
     }
   },
   "collections": [
@@ -427,15 +912,54 @@
     }
   ],
   "status": {
-    "the-walking-dead": "abandoned",
-    "spiderman-new-day": "planned",
-    "interstellar": "planned",
-    "rambo": "watched",
-    "oppenheimer": "watched",
-    "the-boys": "planned",
-    "batman-begins": "planned",
-    "spiderman-2002": "watched",
-    "harry-potter-1": "watched"
+    "the-walking-dead": {
+      "state": "abandoned",
+      "date": null
+    },
+    "spiderman-new-day": {
+      "state": "planned",
+      "date": null
+    },
+    "interstellar": {
+      "state": "planned",
+      "date": null
+    },
+    "rambo": {
+      "state": "watched",
+      "date": null
+    },
+    "oppenheimer": {
+      "state": "watched",
+      "date": null
+    },
+    "the-boys": {
+      "state": "planned",
+      "date": null
+    },
+    "batman-begins": {
+      "state": "planned",
+      "date": null
+    },
+    "spiderman-2002": {
+      "state": "watched",
+      "date": null
+    },
+    "harry-potter-1": {
+      "state": "watched",
+      "date": null
+    }
   },
-  "updatedAt": 1793091441988
+  "watchCount": {
+    "rambo": 1,
+    "oppenheimer": 1,
+    "spiderman-2002": 1,
+    "harry-potter-1": 1,
+    "breaking-bad": 1,
+    "mr-robot": 1,
+    "better-call-saul": 1,
+    "the-walking-dead": 1,
+    "black-mirror": 1
+  },
+  "activeCycle": {},
+  "updatedAt": 1793092085613
 }
