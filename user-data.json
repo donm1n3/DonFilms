@@ -71,7 +71,7 @@
   "reviews": {},
   "notes": {
     "harry-potter-1": {
-      "dict": "привет"
+      "dict": ""
     }
   },
   "watched": {
@@ -429,5 +429,5 @@
     "batman-begins": "planned",
     "spiderman-2002": "watched"
   },
-  "updatedAt": 1793089548222
+  "updatedAt": 1793089598600
 }
