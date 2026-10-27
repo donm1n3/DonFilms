@@ -2,22 +2,978 @@
   "version": 2,
   "history": [
     {
-      "id": "american-psycho",
+      "id": "harry-potter-1",
       "type": "movie",
-      "title": "Американский психопат",
-      "year": "2000",
-      "embed": "https://api.nextembed.ws/embed/movie/4372",
-      "ts": 1793107442825
+      "title": "Гарри Поттер и философский камень",
+      "year": "2001",
+      "embed": "https://api.nextembed.ws/embed/movie/383",
+      "ts": 1793091433618
+    },
+    {
+      "id": "breaking-bad",
+      "type": "series",
+      "title": "Во все тяжкие",
+      "year": "2008",
+      "embed": "https://api.nextembed.ws/embed/movie/255",
+      "ts": 1793091093785
+    },
+    {
+      "id": "the-walking-dead",
+      "type": "series",
+      "title": "Ходячие мертвецы",
+      "year": "2010",
+      "embed": "https://api.nextembed.ws/embed/movie/1285",
+      "ts": 1793090853229
+    },
+    {
+      "id": "spiderman-2002",
+      "type": "movie",
+      "title": "Человек-паук",
+      "year": "",
+      "embed": "https://api.nextembed.ws/embed/movie/1143",
+      "ts": 1793090738513
+    },
+    {
+      "id": "winnie-the-pooh",
+      "type": "movie",
+      "title": "Приключения Винни Пуха",
+      "year": "1977",
+      "embed": "https://api.nextembed.ws/embed/movie/18299",
+      "ts": 1793089509554
+    },
+    {
+      "id": "scream",
+      "type": "movie",
+      "title": "Крик",
+      "embed": "https://api.nextembed.ws/embed/movie/4352",
+      "ts": 1793044510826
+    },
+    {
+      "id": "dark-knight-rises",
+      "type": "movie",
+      "title": "Темный рыцарь: Возрождение легенды",
+      "embed": "https://api.nextembed.ws/embed/movie/469",
+      "ts": 1792510330084
+    },
+    {
+      "id": "dark-knight",
+      "type": "movie",
+      "title": "Темный рыцарь",
+      "embed": "https://api.nextembed.ws/embed/movie/3066",
+      "ts": 1792510309557
     }
   ],
-  "ratings": {},
-  "reviews": {},
-  "notes": {},
-  "watched": {},
-  "collections": [],
-  "status": {},
-  "watchCount": {},
-  "watchDates": {},
+  "ratings": {
+    "breaking-bad": 5,
+    "better-call-saul": 5,
+    "the-walking-dead": 4.5,
+    "rambo": 4.5,
+    "oppenheimer": 4,
+    "spiderman-2002": 4.5,
+    "harry-potter-1": 5
+  },
+  "reviews": {
+    "harry-potter-1": "Классный фильм"
+  },
+  "notes": {
+    "harry-potter-1": {
+      "dict": "",
+      "text": "Посмотрел Гарри Поттера лишь в 2026, что поделаешь..."
+    }
+  },
+  "watched": {
+    "breaking-bad": {
+      "cycle1": {
+        "1": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          }
+        },
+        "2": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          }
+        },
+        "3": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          }
+        },
+        "4": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          }
+        },
+        "5": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          },
+          "14": {
+            "date": null
+          },
+          "15": {
+            "date": null
+          },
+          "16": {
+            "date": null
+          }
+        }
+      },
+      "cycle2": {}
+    },
+    "mr-robot": {
+      "cycle1": {
+        "1": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "2": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          }
+        }
+      },
+      "cycle2": {}
+    },
+    "better-call-saul": {
+      "cycle1": {
+        "1": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "2": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "3": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "4": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "5": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          }
+        },
+        "6": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          }
+        }
+      },
+      "cycle2": {}
+    },
+    "the-walking-dead": {
+      "cycle1": {
+        "1": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          }
+        },
+        "2": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          }
+        },
+        "3": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          },
+          "14": {
+            "date": null
+          },
+          "15": {
+            "date": null
+          },
+          "16": {
+            "date": null
+          }
+        },
+        "4": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          },
+          "14": {
+            "date": null
+          },
+          "15": {
+            "date": null
+          },
+          "16": {
+            "date": null
+          }
+        },
+        "5": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          },
+          "7": {
+            "date": null
+          },
+          "8": {
+            "date": null
+          },
+          "9": {
+            "date": null
+          },
+          "10": {
+            "date": null
+          },
+          "11": {
+            "date": null
+          },
+          "12": {
+            "date": null
+          },
+          "13": {
+            "date": null
+          },
+          "14": {
+            "date": null
+          },
+          "15": {
+            "date": null
+          },
+          "16": {
+            "date": null
+          }
+        }
+      },
+      "cycle2": {}
+    },
+    "black-mirror": {
+      "cycle1": {
+        "1": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          }
+        },
+        "2": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          }
+        },
+        "3": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          }
+        },
+        "4": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          },
+          "6": {
+            "date": null
+          }
+        },
+        "5": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          }
+        },
+        "6": {
+          "1": {
+            "date": null
+          },
+          "2": {
+            "date": null
+          },
+          "3": {
+            "date": null
+          },
+          "4": {
+            "date": null
+          },
+          "5": {
+            "date": null
+          }
+        }
+      },
+      "cycle2": {}
+    }
+  },
+  "collections": [
+    {
+      "id": "col_mvfl3i4x",
+      "name": "Осень",
+      "items": [
+        {
+          "id": "harry-potter-1",
+          "type": "movie"
+        },
+        {
+          "id": "scream",
+          "type": "movie"
+        },
+        {
+          "id": "harry-potter-2",
+          "type": "movie"
+        },
+        {
+          "id": "halloween-2007",
+          "type": "movie"
+        },
+        {
+          "id": "nightmare-before-christmas",
+          "type": "movie"
+        }
+      ]
+    },
+    {
+      "id": "col_planned",
+      "name": "Планирую посмотреть",
+      "items": [
+        {
+          "id": "spiderman-new-day",
+          "type": "movie"
+        },
+        {
+          "id": "batman-begins",
+          "type": "movie"
+        },
+        {
+          "id": "interstellar",
+          "type": "movie"
+        },
+        {
+          "id": "the-boys",
+          "type": "series"
+        }
+      ]
+    }
+  ],
+  "status": {
+    "the-walking-dead": {
+      "state": "abandoned",
+      "date": null
+    },
+    "spiderman-new-day": {
+      "state": "planned",
+      "date": null
+    },
+    "interstellar": {
+      "state": "planned",
+      "date": null
+    },
+    "rambo": {
+      "state": "watched",
+      "date": null
+    },
+    "oppenheimer": {
+      "state": "watched",
+      "date": null
+    },
+    "the-boys": {
+      "state": "planned",
+      "date": null
+    },
+    "batman-begins": {
+      "state": "planned",
+      "date": null
+    },
+    "spiderman-2002": {
+      "state": "watched",
+      "date": null
+    },
+    "harry-potter-1": {
+      "state": "watched",
+      "date": null
+    }
+  },
+  "watchCount": {
+    "rambo": 1,
+    "oppenheimer": 1,
+    "spiderman-2002": 1,
+    "harry-potter-1": 1,
+    "breaking-bad": 1,
+    "mr-robot": 1,
+    "better-call-saul": 1,
+    "the-walking-dead": 1,
+    "black-mirror": 1
+  },
+  "watchDates": {
+    "rambo": [
+      "2026-10-27"
+    ],
+    "oppenheimer": [
+      "2026-10-27"
+    ],
+    "spiderman-2002": [
+      "2026-10-27"
+    ],
+    "harry-potter-1": [
+      "2026-10-27"
+    ]
+  },
   "activeCycle": {},
-  "updatedAt": 1793107442825
+  "updatedAt": 1793108885452
 }
