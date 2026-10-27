@@ -1078,11 +1078,6 @@
           "type": "movie"
         }
       ]
-    },
-    {
-      "id": "col_1793094321695",
-      "name": "сборник",
-      "items": []
     }
   ],
   "status": {
@@ -1157,5 +1152,5 @@
     "breaking-bad": 1,
     "the-boys": 1
   },
-  "updatedAt": 1793104953178
+  "updatedAt": 1793104955186
 }
