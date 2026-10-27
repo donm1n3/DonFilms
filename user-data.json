@@ -1144,6 +1144,11 @@
           "type": "movie"
         }
       ]
+    },
+    {
+      "id": "col_1793093955907",
+      "name": "тест",
+      "items": []
     }
   ],
   "status": {
@@ -1211,5 +1216,5 @@
     "breaking-bad": 1,
     "the-boys": 1
   },
-  "updatedAt": 1793093860470
+  "updatedAt": 1793093955907
 }
