@@ -2,6 +2,14 @@
   "version": 1,
   "history": [
     {
+      "id": "breaking-bad",
+      "type": "series",
+      "title": "Во все тяжкие",
+      "year": "2008",
+      "embed": "https://api.nextembed.ws/embed/movie/255",
+      "ts": 1793090115555
+    },
+    {
       "id": "harry-potter-1",
       "type": "movie",
       "title": "Гарри Поттер и философский камень",
@@ -31,13 +39,6 @@
       "title": "Человек-паук",
       "embed": "https://api.nextembed.ws/embed/movie/1143",
       "ts": 1793088336707
-    },
-    {
-      "id": "breaking-bad",
-      "type": "series",
-      "title": "Во все тяжкие",
-      "embed": "https://api.nextembed.ws/embed/movie/255",
-      "ts": 1793088330319
     },
     {
       "id": "scream",
@@ -433,5 +434,5 @@
     "spiderman-2002": "watched",
     "harry-potter-1": "watched"
   },
-  "updatedAt": 1793089898406
+  "updatedAt": 1793090115555
 }
