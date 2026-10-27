@@ -1134,23 +1134,9 @@
     "black-mirror": 1,
     "the-boys": 2
   },
-  "watchDates": {
-    "rambo": [
-      "2026-10-27"
-    ],
-    "oppenheimer": [
-      "2026-10-27"
-    ],
-    "spiderman-2002": [
-      "2026-10-27"
-    ],
-    "harry-potter-1": [
-      "2026-10-27"
-    ]
-  },
   "activeCycle": {
     "breaking-bad": 1,
     "the-boys": 1
   },
-  "updatedAt": 1793104955186
+  "updatedAt": 1793105106775
 }
