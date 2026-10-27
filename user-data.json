@@ -2,6 +2,14 @@
   "version": 2,
   "history": [
     {
+      "id": "american-psycho",
+      "type": "movie",
+      "title": "Американский психопат",
+      "year": "2000",
+      "embed": "https://api.nextembed.ws/embed/movie/4372",
+      "ts": 1793093556453
+    },
+    {
       "id": "the-boys",
       "type": "series",
       "title": "Пацаны",
@@ -1203,5 +1211,5 @@
     "breaking-bad": 1,
     "the-boys": 1
   },
-  "updatedAt": 1793093428236
+  "updatedAt": 1793093556453
 }
