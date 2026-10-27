@@ -2,6 +2,14 @@
   "version": 2,
   "history": [
     {
+      "id": "harry-potter-2",
+      "type": "movie",
+      "title": "Гарри Поттер и Тайная комната",
+      "year": "2002",
+      "embed": "https://api.nextembed.ws/embed/movie/384",
+      "ts": 1793094343467
+    },
+    {
       "id": "american-psycho",
       "type": "movie",
       "title": "Американский психопат",
@@ -1120,6 +1128,10 @@
         {
           "id": "american-psycho",
           "type": "movie"
+        },
+        {
+          "id": "harry-potter-2",
+          "type": "movie"
         }
       ]
     },
@@ -1196,6 +1208,10 @@
     "american-psycho": {
       "state": "planned",
       "date": "2026-10-27"
+    },
+    "harry-potter-2": {
+      "state": "planned",
+      "date": "2026-10-27"
     }
   },
   "watchCount": {
@@ -1229,5 +1245,5 @@
     "breaking-bad": 1,
     "the-boys": 1
   },
-  "updatedAt": 1793094337695
+  "updatedAt": 1793094344462
 }
