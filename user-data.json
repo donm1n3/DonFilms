@@ -73,7 +73,8 @@
   "reviews": {},
   "notes": {
     "harry-potter-1": {
-      "dict": ""
+      "dict": "",
+      "text": "Посмотрел Гарри Поттера лишь в 2026, что поделаешь..."
     }
   },
   "watched": {
@@ -432,5 +433,5 @@
     "spiderman-2002": "watched",
     "harry-potter-1": "watched"
   },
-  "updatedAt": 1793089876237
+  "updatedAt": 1793089898406
 }
