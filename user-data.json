@@ -79,7 +79,7 @@
     "oppenheimer": 4,
     "spiderman-2002": 4.5,
     "harry-potter-1": 5,
-    "the-boys": 4.5
+    "the-boys": 0
   },
   "reviews": {
     "harry-potter-1": "Классный фильм"
@@ -1200,5 +1200,5 @@
     "breaking-bad": 1,
     "the-boys": 5
   },
-  "updatedAt": 1793093269158
+  "updatedAt": 1793093273669
 }
