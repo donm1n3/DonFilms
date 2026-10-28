@@ -71,7 +71,8 @@
     "rambo": 4.5,
     "oppenheimer": 4,
     "spiderman-2002": 4.5,
-    "harry-potter-1": 5
+    "harry-potter-1": 5,
+    "scream": 4.5
   },
   "reviews": {
     "harry-potter-1": "Классный фильм"
@@ -948,6 +949,10 @@
     "harry-potter-1": {
       "state": "watched",
       "date": null
+    },
+    "scream": {
+      "state": "watched",
+      "date": "2026-10-28"
     }
   },
   "watchCount": {
@@ -973,8 +978,11 @@
     ],
     "harry-potter-1": [
       "2026-10-27"
+    ],
+    "scream": [
+      "2026-10-28"
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793208480026
+  "updatedAt": 1793211782941
 }
