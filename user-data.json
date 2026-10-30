@@ -80,7 +80,8 @@
     "oppenheimer": 4,
     "spiderman-2002": 4.5,
     "harry-potter-1": 5,
-    "scream": 4.5
+    "scream": 4.5,
+    "harry-potter-2": 5
   },
   "reviews": {
     "harry-potter-1": "Классный фильм"
@@ -961,6 +962,10 @@
     "scream": {
       "state": "watched",
       "date": "2026-10-28"
+    },
+    "harry-potter-2": {
+      "state": "watched",
+      "date": "2026-10-30"
     }
   },
   "watchCount": {
@@ -990,8 +995,11 @@
     ],
     "scream": [
       "2026-10-28"
+    ],
+    "harry-potter-2": [
+      "2026-10-30"
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793382204822
+  "updatedAt": 1793386369476
 }
