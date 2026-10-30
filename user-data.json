@@ -89,7 +89,8 @@
     "spiderman-2002": 4.5,
     "harry-potter-1": 5,
     "scream": 4.5,
-    "harry-potter-2": 5
+    "harry-potter-2": 5,
+    "halloween-2007": 5
   },
   "reviews": {
     "harry-potter-1": "Классный фильм"
@@ -974,6 +975,10 @@
     "harry-potter-2": {
       "state": "watched",
       "date": "2026-10-30"
+    },
+    "halloween-2007": {
+      "state": "watched",
+      "date": "2026-10-31"
     }
   },
   "watchCount": {
@@ -1006,8 +1011,11 @@
     ],
     "harry-potter-2": [
       "2026-10-30"
+    ],
+    "halloween-2007": [
+      "2026-10-31"
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793386388864
+  "updatedAt": 1793394207885
 }
