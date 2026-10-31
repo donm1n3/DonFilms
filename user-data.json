@@ -106,7 +106,8 @@
     "harry-potter-1": 5,
     "scream": 4.5,
     "harry-potter-2": 5,
-    "halloween-2007": 4
+    "halloween-2007": 4,
+    "scary-movie": 4.5
   },
   "reviews": {
     "harry-potter-1": "Классный фильм",
@@ -1004,6 +1005,10 @@
     "halloween-2007": {
       "state": "watched",
       "date": "2026-10-31"
+    },
+    "scary-movie": {
+      "state": "watched",
+      "date": "2026-11-01"
     }
   },
   "watchCount": {
@@ -1041,8 +1046,11 @@
     ],
     "halloween-2007": [
       "2026-10-31"
+    ],
+    "scary-movie": [
+      "2026-11-01"
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793476414352
+  "updatedAt": 1793481786308
 }
