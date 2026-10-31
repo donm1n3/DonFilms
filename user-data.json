@@ -107,7 +107,7 @@
     "scream": 4.5,
     "harry-potter-2": 5,
     "halloween-2007": 4,
-    "scary-movie": 4.5
+    "scary-movie": 4
   },
   "reviews": {
     "harry-potter-1": "Классный фильм",
@@ -1052,5 +1052,5 @@
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793481786308
+  "updatedAt": 1793481789385
 }
