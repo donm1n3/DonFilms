@@ -2,6 +2,14 @@
   "version": 2,
   "history": [
     {
+      "id": "scary-movie",
+      "type": "movie",
+      "title": "Очень страшное кино",
+      "year": "2000",
+      "embed": "https://api.nextembed.ws/embed/movie/11967",
+      "ts": 1793447830881
+    },
+    {
       "id": "halloween-2007",
       "type": "movie",
       "title": "Хэллоуин 2007",
@@ -904,11 +912,11 @@
           "type": "movie"
         },
         {
-          "id": "nightmare-before-christmas",
+          "id": "scary-movie",
           "type": "movie"
         },
         {
-          "id": "scary-movie",
+          "id": "nightmare-before-christmas",
           "type": "movie"
         },
         {
@@ -1028,5 +1036,5 @@
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793447398682
+  "updatedAt": 1793447830881
 }
