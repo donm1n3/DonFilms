@@ -115,7 +115,8 @@
     "scream": 4.5,
     "harry-potter-2": 5,
     "halloween-2007": 4,
-    "scary-movie": 4
+    "scary-movie": 4,
+    "spiderman-new-day": 5
   },
   "reviews": {
     "harry-potter-1": "Классный фильм",
@@ -972,8 +973,8 @@
       "date": null
     },
     "spiderman-new-day": {
-      "state": "planned",
-      "date": null
+      "state": "watched",
+      "date": "2026-11-04"
     },
     "interstellar": {
       "state": "planned",
@@ -1059,8 +1060,11 @@
     ],
     "scary-movie": [
       "2026-11-01"
+    ],
+    "spiderman-new-day": [
+      "2026-11-04"
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793812832111
+  "updatedAt": 1793812890788
 }
