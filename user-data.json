@@ -116,7 +116,7 @@
     "harry-potter-2": 5,
     "halloween-2007": 4,
     "scary-movie": 4,
-    "spiderman-new-day": 5
+    "spiderman-new-day": 4.5
   },
   "reviews": {
     "harry-potter-1": "Классный фильм",
@@ -1066,5 +1066,5 @@
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793812890788
+  "updatedAt": 1793812895096
 }
