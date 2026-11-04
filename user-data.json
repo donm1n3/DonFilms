@@ -112,7 +112,7 @@
     "oppenheimer": 4,
     "spiderman-2002": 4.5,
     "harry-potter-1": 5,
-    "scream": 4.5,
+    "scream": 5,
     "harry-potter-2": 5,
     "halloween-2007": 4,
     "scary-movie": 4,
@@ -1062,5 +1062,5 @@
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793812957279
+  "updatedAt": 1793812959225
 }
