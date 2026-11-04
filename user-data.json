@@ -949,10 +949,6 @@
       "name": "Планирую посмотреть",
       "items": [
         {
-          "id": "spiderman-new-day",
-          "type": "movie"
-        },
-        {
           "id": "batman-begins",
           "type": "movie"
         },
@@ -1066,5 +1062,5 @@
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793812895096
+  "updatedAt": 1793812935809
 }
