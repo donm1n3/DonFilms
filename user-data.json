@@ -2,6 +2,14 @@
   "version": 2,
   "history": [
     {
+      "id": "scream",
+      "type": "movie",
+      "title": "Крик",
+      "year": "1996",
+      "embed": "https://api.nextembed.ws/embed/movie/4352",
+      "ts": 1793812957278
+    },
+    {
       "id": "spiderman-new-day",
       "type": "movie",
       "title": "Человек-паук: Новый день",
@@ -40,14 +48,6 @@
       "year": "2002",
       "embed": "https://api.nextembed.ws/embed/movie/384",
       "ts": 1793382204822
-    },
-    {
-      "id": "scream",
-      "type": "movie",
-      "title": "Крик",
-      "year": "1996",
-      "embed": "https://api.nextembed.ws/embed/movie/4352",
-      "ts": 1793208480026
     },
     {
       "id": "harry-potter-1",
@@ -1062,5 +1062,5 @@
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793812935809
+  "updatedAt": 1793812957279
 }
