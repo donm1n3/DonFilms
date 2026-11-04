@@ -2,6 +2,14 @@
   "version": 2,
   "history": [
     {
+      "id": "spiderman-new-day",
+      "type": "movie",
+      "title": "Человек-паук: Новый день",
+      "year": "2026",
+      "embed": "https://api.nextembed.ws/embed/movie/90039",
+      "ts": 1793812810758
+    },
+    {
       "id": "scary-movie",
       "type": "movie",
       "title": "Очень страшное кино",
@@ -1020,6 +1028,7 @@
     "scream": 1,
     "harry-potter-2": 1,
     "halloween-2007": 1,
+    "scary-movie": 1,
     "breaking-bad": 1,
     "mr-robot": 1,
     "better-call-saul": 1,
@@ -1053,5 +1062,5 @@
     ]
   },
   "activeCycle": {},
-  "updatedAt": 1793482434131
+  "updatedAt": 1793812810760
 }
